@@ -1,0 +1,23 @@
+.sidebar {
+    background-color: #f4f4f4;
+    padding: 1em;
+    width: 200px;
+  }
+  
+  .sidebar nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .sidebar nav ul li {
+    margin: 0.5em 0;
+  }
+  
+  .sidebar nav ul li a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .sidebar nav ul li a:hover {
+    text-decoration: underline;
+  }
